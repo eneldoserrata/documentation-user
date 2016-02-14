@@ -2,7 +2,7 @@
 How to integrate a third party shipper?
 =======================================
 
-Overview
+Visión general
 ========
 
 Odoo can handle various delivery methods, including third party

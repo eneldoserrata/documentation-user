@@ -1,5 +1,5 @@
 =================================
-Overview of the invoicing process
+Visión general of the invoicing process
 =================================
 
 Depending on your business and the application you use, there are

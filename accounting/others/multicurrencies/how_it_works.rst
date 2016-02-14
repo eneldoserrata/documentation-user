@@ -2,7 +2,7 @@
 How is Odoo's multi-currency working?
 =====================================
 
-Overview
+Visión general
 ========
 
 Choosing to use the multi-currency option in Odoo will allow you to send

@@ -2,7 +2,7 @@
 How to add a quality control step in goods receipt? (3 steps)
 =============================================================
 
-Overview
+Visión general
 ========
 
 In many companies, it is necessary to assess the received good. The goal

@@ -1,5 +1,5 @@
 ========
-Overview
+Visión general
 ========
 
 .. toctree::

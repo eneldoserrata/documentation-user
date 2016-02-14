@@ -2,7 +2,7 @@
 What is a removal strategy (FIFO, LIFO, FEFO, Specific Indentification)?
 ========================================================================
 
-Overview
+Visión general
 ========
 
 Removal strategies are usually in picking operations to select the best

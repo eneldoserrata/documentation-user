@@ -19,6 +19,8 @@ sys.path.insert(
     0, os.path.abspath(
         os.path.join(DIR, '_extensions')))
 
+print sys.path
+
 # -- General configuration ------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.

@@ -2,7 +2,7 @@
 How to print shipping labels?
 =============================
 
-Overview
+Visión general
 ========
 
 Odoo can handle various delivery methods, including third party shippers

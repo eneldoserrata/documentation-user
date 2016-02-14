@@ -1,6 +1,6 @@
-=====
-Setup
-=====
+========
+Preparar
+========
 
 .. toctree::
    :titlesonly:

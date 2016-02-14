@@ -7,7 +7,7 @@ Introduction to Odoo Project
     :width: 700
     :height: 394
 
-Transcript
+Descripción
 ==========
 
 As a business manager, I have a varied job involving 

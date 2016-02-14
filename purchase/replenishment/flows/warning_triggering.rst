@@ -2,7 +2,7 @@
 How to trigger a warning when purchasing at a specific vendor?
 ==============================================================
 
-Overview
+Visión general
 ========
 
 The **Warning Messages and Alerts** module allow you to configure alerts

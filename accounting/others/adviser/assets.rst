@@ -1,6 +1,6 @@
-========================
-Manage your fixed assets
-========================
+===========================
+Gestionar sus activos fijos
+===========================
 
 The "Assets" module allows you to keep track of your fixed assets like
 machinery, land and building. The module allows you to generate monthly
@@ -20,11 +20,11 @@ types:
 -  Building: 10 years, yearly linear depreciation
 -  Car: 5 years, monthly linear depreciation
 
-Configuration
+Configuración
 =============
 
-Install the Asset module
-------------------------
+Instalar el módulo de Activos
+-----------------------------
 
 Start by *installing the Asset module.*
 
@@ -39,8 +39,8 @@ Types <accounting/adviser/assets_management/defining>`.
 
 .. _accounting/adviser/assets_management/defining:
 
-Defining Asset Types
---------------------
+Definición de tipos de activos
+------------------------------
 
 Asset type are used to configure all information about an assets: asset
 and deprecation accounts, amortization method, etc. That way, advisers
@@ -59,8 +59,8 @@ Types`
 .. image:: media/image01.png
    :align: center
 
-Create assets manually
-======================
+Crear activos manualmente
+=========================
 
 To register an asset manually, go to the menu :menuselection:`Adviser
 --> Assets`.
@@ -87,8 +87,8 @@ Explanation of the fields:
 
    Try creating an *Asset* in our online demonstration
 
-Create assets automatically from a supplier bill
-================================================
+Crear activos de forma automática a partir de una factura de proveedor
+======================================================================
 
 Assets can be automatically created from supplier bills. All you need to
 do is to set an asset category on your bill line. When the user will
@@ -107,8 +107,8 @@ before posting them to your accounts.
 .. tip:: if you put the asset on the product, the asset category will
          automatically be filled in the supplier bill.
 
-How to deprecate an asset?
-==========================
+Cómo depreciar un activo?
+=========================
 
 Odoo will create depreciation journal entries automatically at the right
 date for every confirmed asset. (not the draft ones). You can control in
@@ -126,16 +126,16 @@ depreciation entry.
           the journal entry. Click on the :guilabel:`Items` button on
           the top to see the journal entries which are already posted.
 
-How to modify an existing asset?
-================================
+Cómo modificar un activo existente?
+===================================
 
 -  Click on :guilabel:`Modify Depreciation`
 -  Change the number of depreciation
 
 Odoo will automatically recompute a new depreciation board.
 
-How to record the sale or disposal of an asset?
-===============================================
+Cómo registrar la venta o disposición de un activo?
+===================================================
 
 If you sell or dispose an asset, you need to deprecate completly this
 asset. Click on the button :guilabel:`Sell or Dispose`. This action

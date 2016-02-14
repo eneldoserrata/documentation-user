@@ -7,7 +7,7 @@ Introduction to Odoo Sales
     :width: 700
     :height: 394
 
-Transcript
+Descripción
 ==========
 
 As a sales manager, closing opportunities with Odoo Sales is 

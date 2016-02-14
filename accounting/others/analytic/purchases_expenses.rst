@@ -1,8 +1,8 @@
-==========================================================
-How to track costs of purchases, expenses, subcontracting?
-==========================================================
+==========================================================================================
+Cómo realizar un seguimiento de los costos de las compras, los gastos, la subcontratación?
+==========================================================================================
 
-Overview
+Visión general
 ========
 
 Thanks to analytical accounting we can track costs of purchases,

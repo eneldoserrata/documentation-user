@@ -2,7 +2,7 @@
 How to set up & configure a project?
 ====================================
 
-Overview
+Visión general
 ========
 
 Odoo Project allows you to manage a project together with your whole

@@ -2,7 +2,7 @@
 How to setup a multi-company sale/purchase flow?
 ================================================
 
-Overview
+Visión general
 ========
 
 Odoo is an outstanding solution to help small companies growing their

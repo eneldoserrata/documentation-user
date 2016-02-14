@@ -2,7 +2,7 @@
 How to manage multiple packs for the same delivery order?
 =========================================================
 
-Overview
+Visión general
 ========
 
 By default, Odoo considers that your delivery is composed of one

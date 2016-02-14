@@ -1,6 +1,6 @@
-========================================================
-How to do a bank wire transfer from one bank to another?
-========================================================
+=========================================================
+Cómo hacer una transferencia bancaria de un banco a otro?
+=========================================================
 
 A company might have several bank accounts or cash registers. Within
 odoo it is possible to handle internal transfers of money with only a
@@ -10,11 +10,11 @@ We will take the following example to illustrate. My company has two
 bank accounts and I want to transfer 50.000 euros from one of our bank
 accounts to the another one.
 
-Configuration
+Configuración
 =============
 
-Check your Chart of Accounts and default transfer account
----------------------------------------------------------
+Revise su plan de cuentas y la transferencia de la cuenta predeterminada
+------------------------------------------------------------------------
 
 To handle internal transfers you need a transfer account in your charts
 of account. Odoo will generate an account automatically based on the
@@ -35,8 +35,8 @@ from the same page.
 .. image:: media/interbank05.png
    :align: center
 
-Create a second bank account / Journal
---------------------------------------
+Crear una cuenta de banco de segundo / Diario
+---------------------------------------------
 
 Before we can register an internal transfer we need to add a new bank to
 our accounting dashboard. To do so enter the accounting module, click on
@@ -52,14 +52,14 @@ By saving the changes you now have 2 bank accounts.
 .. image:: media/interbank06.png
    :align: center
 
-Register an internal transfer from one bank to another.
+Registrar una transferencia interna de un banco a otro.
 =======================================================
 
 We will now transfer 50.000 euros from our **Bank** to our **Bank BE57 0633
 9533 1498** account.
 
-Log an internal transfer
-------------------------
+Ingrese una transferencia interna
+---------------------------------
 
 The first step is to register the internal paiement. To do so, go into
 your accounting dashboard. click on the **more** button of one of your banks
@@ -86,8 +86,8 @@ accounts.
 
 .. _Reconcile:
 
-Import bank statements and reconcile
-------------------------------------
+Importar extractos de cuenta y conciliar
+----------------------------------------
 
 Note that the bank balance computed by Odoo is different that the last
 statement of your bank.

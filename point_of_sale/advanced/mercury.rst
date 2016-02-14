@@ -2,7 +2,7 @@
 How to accept credit card payments in Odoo POS using Mercury?
 =============================================================
 
-Overview
+Visión general
 ========
 
 A **MercuryPay** account (see `MercuryPay website <https://www.mercurypay.com>`__.) 

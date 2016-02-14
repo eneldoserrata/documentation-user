@@ -2,7 +2,7 @@
 How to create my first quotation?
 =================================
 
-Overview
+Visión general
 ========
 
 Quotations are documents sent to customers to offer an estimated cost

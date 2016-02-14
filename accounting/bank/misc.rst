@@ -1,6 +1,6 @@
-=============
-Miscellaneous
-=============
+=======
+Diverso
+=======
 
 .. toctree::
    :titlesonly:

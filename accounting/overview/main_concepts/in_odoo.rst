@@ -1,12 +1,11 @@
-==========================
-The Accounting behind Odoo
-==========================
+==============================
+La Contabilidad detrás Openerp
+==============================
 
-This page summarises the way Odoo deals with typical accounts and
-transactions.
+Esta página describe la forma en la que Odoo maneja las cuentas contables y las transacciones.
 
-Double-entry bookkeeping
-========================
+Contabilidad de doble partida
+=============================
 
 Odoo automatically creates all the behind-the-scenes journal entries
 for each of your accounting transactions: customer invoices, point of

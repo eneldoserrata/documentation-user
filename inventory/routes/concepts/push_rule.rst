@@ -2,7 +2,7 @@
 What is a push rule?
 ====================
 
-Overview 
+Visión general
 =========
 
 The push system of inventory control involves forecasting inventory

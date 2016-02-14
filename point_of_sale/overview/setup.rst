@@ -304,7 +304,7 @@ can also leave it empty.
 POSBox Technical Documentation
 ==============================
 
-Technical Overview
+Technical Visión general
 ------------------
 
 The POSBox Hardware

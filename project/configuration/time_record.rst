@@ -2,7 +2,7 @@
 How to record time spent?
 =========================
 
-Overview
+Visión general
 ========
 
 Odoo allows you to record the time spent per employee and per project,

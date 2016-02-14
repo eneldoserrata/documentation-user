@@ -2,7 +2,7 @@
 How to use routes?
 ==================
 
-Overview
+Visión general
 ========
 
 A route is a collection of procurement rules and push rules. Odoo can

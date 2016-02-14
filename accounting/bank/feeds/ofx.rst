@@ -1,6 +1,6 @@
-==========================
-Import OFX statement files
-==========================
+========================================
+ficheros de extractos de importación OFX
+========================================
 
 Open Financial Exchange (OFX) is a unified specification for the
 electronic exchange of financial data between financial institutions,
@@ -14,7 +14,7 @@ all bank statements.
 
 	Test now the feature `with this sample OFX file <https://drive.google.com/file/d/0B5BDHVRYo-q5Mmg4T3oxTWszeEk/view>`__
 
-Configuration
+Configuración
 =============
 
 In order to import OFX statements, you need to activate the feature in
@@ -42,8 +42,8 @@ create all your bank statements.
 If the file is successfully loaded, you will get redirected to the bank
 reconciliation screen with all the transactions to reconcile.
 
-Importing OFX files
-===================
+La importación de archivos OFX
+==============================La importación de archivos OFX
 
 After having imported your first file, the Odoo accounting dashboard
 will automatically propose you to import more files for your bank. For

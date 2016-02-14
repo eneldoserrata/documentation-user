@@ -1,8 +1,8 @@
 :banner: banners/crm.jpg
 
-=======
-Discuss
-=======
+=========
+Mesajeria
+=========
 
 .. toctree::
    :titlesonly:

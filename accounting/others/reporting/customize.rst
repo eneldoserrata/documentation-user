@@ -2,7 +2,7 @@
 How to create a customized reports with your own formulas?
 ==========================================================
 
-Overview
+Visión general
 ========
 
 Odoo 9 comes with a powerful and easy-to-use reporting framework.

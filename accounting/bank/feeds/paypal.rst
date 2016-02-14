@@ -1,5 +1,5 @@
 =================================================
-How to synchronize your PayPal account with Odoo?
+Cómo sincronizar su cuenta de PayPal con Openerp?
 =================================================
 
 With Odoo, you can synchronize your PayPal account. That way, you don't
@@ -24,8 +24,8 @@ Interface - Sync your bank feeds automatically**.
 
 Click on the apply button once it's done.
 
-Setup your PayPal account
--------------------------
+Configuración de cuenta de su cuenta de PayPal
+----------------------------------------------
 
 A PayPal account in Odoo is managed like a bank account. To setup your
 PayPal account, use the menu :menuselection:`Configuration --> Bank Accounts`.

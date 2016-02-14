@@ -1,6 +1,6 @@
-==========
-Bank Feeds
-==========
+===============
+Feeds bancarias
+===============
 
 .. toctree::
    :titlesonly:

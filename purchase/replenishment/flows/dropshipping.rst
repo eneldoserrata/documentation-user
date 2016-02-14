@@ -2,7 +2,7 @@
 How to setup drop-shipping?
 ===========================
 
-Overview
+Visión general
 ========
 
 Drop shipping allows to deliver the goods directly from the supplier to

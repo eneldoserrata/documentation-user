@@ -2,7 +2,7 @@
 How to setup a delivery method? 
 ===============================
 
-Overview
+Visión general
 ========
 
 Odoo can handle various delivery methods, but it is not activated by

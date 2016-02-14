@@ -2,7 +2,7 @@
 From procurement to delivery
 ============================
 
-Overview
+Visión general
 ========
 
 Inventory is the heart of your business. It can be really complicated,

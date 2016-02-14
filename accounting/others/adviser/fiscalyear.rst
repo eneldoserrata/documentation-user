@@ -1,6 +1,6 @@
-=====================================================
-How to do a year end in Odoo? (close a fiscal year)
-=====================================================
+=========================================================
+¿Cómo hacer un fin de año en Odoo? (Cerrar un año fiscal)
+=========================================================
 
 Before going ahead with closing a fiscal year, there are a few steps one
 should typically take to ensure that your accounting is correct, up to
@@ -19,8 +19,8 @@ date, and accurate:
 - Corroborate that all **received payments** have been entered and
   recorded accurately.
 
-Year-end checklist
-==================
+Lista de comprobación de fin de año
+===================================
 
 - Run a **Tax report**, and verify that your tax information is correct.
 
@@ -73,8 +73,8 @@ while auditing the books.
 .. image:: media/fiscalyear01.png  
    :align: center
 
-Closing the fiscal year
-=======================
+Cierre del año fiscal
+=====================
 
 In Odoo there is no need to do a specific year end closing entry in order to
 close out income statement accounts. The reports are created in

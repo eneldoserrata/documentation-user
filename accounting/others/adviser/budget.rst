@@ -1,9 +1,9 @@
-=================================
-How to manage a financial budget?
-=================================
+===========================================
+Cómo administrar un presupuesto financiero?
+===========================================
 
-Overview
-========
+Visión general
+==============
 
 Managing budgets is an essential part of running a business. It allows
 you to measure your actual financial performance against the planned
@@ -14,7 +14,7 @@ project with Smith&Co and we would like to budget the incomes and
 expenses of that project. We plan to have a revenue of 1000 and we don't
 want to spend more than 700.
 
-Configuration 
+Configuración
 =============
 
 First we need to install the relevant apps to use budgeting. The main
@@ -36,8 +36,8 @@ to our budget, you should enable the Analytic accounting as well. If we
 don't we will only be able to budget the total amount of general
 accounts.
 
-Budgetary Positions
--------------------
+Las posiciones presupuestarias
+------------------------------
 
 Budgetary positions are the general accounts for which you want to keep
 budgets (typically expense or income accounts). They need to be defined
@@ -70,8 +70,8 @@ Save the changes to confirm your Budgetary position.
 Repeat this steps to create a revenue budgetary position. Only in this
 case select the relevant income accounts.
 
-Analytical account
-------------------
+Cuenta analítica
+----------------
 
 If you wish to point specific invoices or vendor bills to your budget
 you need to use analytical accounting. Odoo needs to know which costs or
@@ -84,8 +84,8 @@ called Smith&Co project and select the related partner.
 .. image:: media/budget06.png
    :align: center
 
-Set a budget
-============
+Establecer un presupuesto
+=========================
 
 Let's now set our targets for our budget. We specified that we expect to
 gain 1000 with this project and we would like not to spend more than
@@ -116,8 +116,8 @@ Position is Revenue and the Planned Amount is 1000. Save and close
 
 You'll need to **Confirm** and **Approve** the budget.
 
-Check your budget
-=================
+Compruebe su presupuesto
+========================
 
 You can check your budget at any time. To see the evolution, let's book
 some Invoices and Vendors Bills.

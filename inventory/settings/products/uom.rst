@@ -2,7 +2,7 @@
 How to use different units of measure?
 ======================================
 
-Overview
+Visión general
 ========
 
 In some cases, handling products in different unit of measures is

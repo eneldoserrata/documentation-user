@@ -1,9 +1,9 @@
-=============================================
-Use cases in the bank reconciliation process?
-=============================================
+========================================================
+Los casos de uso en el proceso de conciliación bancaria?
+========================================================
 
-Overview
-========
+Visión General
+==============
 
 Linking your bank statements with your accounting can be a lot of work.
 You need to find invoices back, relate payments and that amount of
@@ -16,7 +16,7 @@ Two reconciliation processes exist in Odoo.
 1. We can directly register a payment on the invoices
 2. We can reconcile open invoices with bank statements
 
-Configuration
+Configuración
 =============
 
 No special configuration is necessary to register invoices. All we need
@@ -25,11 +25,11 @@ to do is install the accounting app.
 .. image:: media/use01.png
    :align: center
 
-User cases
-==========
+Los casos de uso
+================
 
-Case 1: Payments registration
------------------------------
+Caso 1: El registro de pagos
+----------------------------
 
 We received the payment proof for our invoice of 2100 euros issued to
 Smith & Co.
@@ -62,8 +62,8 @@ We can always find the payment back from the Invoice by clicking on the
 The invoice has been paid and **the reconciliation has been done
 automatically.**
 
-Case 2: Bank statements reconciliations
----------------------------------------
+Caso 2: extractos bancarios conciliaciones
+------------------------------------------
 
 We start at our issued Invoice of 3000 euros for Smith & Co. Let's also
 assume that other Invoices are open for different customers.

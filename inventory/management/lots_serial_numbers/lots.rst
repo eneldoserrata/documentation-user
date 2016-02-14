@@ -2,7 +2,7 @@
 How to manage lots of identical products?
 =========================================
 
-Overview
+Visión general
 ========
 
 Lots are useful for products you receive in great quantity and for which

@@ -2,7 +2,7 @@
 How to invoice the shipping cost to the customer?
 =================================================
 
-Overview
+Visión general
 ========
 
 There are two ways to invoice the shipping costs:

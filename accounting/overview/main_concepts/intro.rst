@@ -1,41 +1,38 @@
-===============================
-Introduction to Odoo Accounting
-===============================
+===========================
+Introducción a Contabilidad
+===========================
 
 .. youtube:: 6XgKPjgyoec
     :align: right
     :width: 700
     :height: 394
 
-Transcript
+Descripción
 ==========
 
-Odoo is beautiful accounting software designed for the needs of the 21st century. 
+Odoo es un software de contabilidad hermoso diseñado para las necesidades del siglo 21..
 
-Odoo connects directly to your bank or paypal account. Transactions are synchronized
-every hour and reconciliation is blazing fast. It's like magic.
+Odoo conecta directamente a su cuenta bancaria o paypal. Las transacciones se sincronizan
+importando el acrhivo de su banco y la reconciliación es veloz. Es como magia.
 
-Instantly create invoices and send them with just a click. No need to print them. 
+Al instante crear facturas y enviarlas con sólo un clic. No hay necesidad de imprimirlos.
 
-Odoo can send them for you by email or regular mail.
+Odoo puede enviarlos para usted por correo electrónico o correo regular.
 
-Your customers pay online, meaning you get your money right away.
+Sus clientes pagan en línea, lo que significa que recibirá su dinero de forma inmediata.
 
-Odoo accounting is connected with all Odoo our apps such as sale, purchase,
-inventory and subscriptions. 
+La contabilidad está conectada con todas sus aplicaciones, tales como la venta, compra,
+inventario y suscripciones.
 
-This way, recording vendor bills is also super quick. Set a vendor, select the purchase
-order and Odoo fills in everything for you automatically.
+De esta manera, la grabación de las facturas de los proveedores también es súper rápido. Establecer un proveedor, seleccione la compra
+ordenar y Odoo llena en todo de forma automática.
 
-Then, just use the SEPA protocol or print checks to pay vendors
-in batches.
+Es así de fácil con Odoo.
 
-It's that easy with Odoo.
+Espera, hay más. Le encantará informa que Odoo. A partir de las declaraciones legales a
+resúmenes ejecutivos, que son rápidos y dinámicos. Usada función de inteligencia de negocio Odoo para navegar
+a través de todos los datos de las empresas.
 
-Wait, there is more. You will love the Odoo reports. From legal statements to 
-executive summaries, they are fast and dynamic. Use Odoo's business intelligence feature to navigate
-through all your companies data.
+Por supuesto, Odoo es móvil también. Se puede utilizar para revisar sus cuentas sobre la marcha.
 
-Of course, Odoo is mobile too. You can use it to check your accounts on the go.
-
-Try Odoo now, and join 2 millions of happy users.
+Pruebe Odoo ahora, y unase a 2 millones de usuarios satisfechos.

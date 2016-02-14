@@ -1,14 +1,14 @@
-=================================
-Register bank statements manually
-=================================
+========================================
+Register extractos de cuenta manualmente
+========================================
 
-Overview
-========
+Visión
+======
 
 With Odoo, you can import your bank statements, synchronize with your
 bank but also register your bank statements manually.
 
-Configuration
+Configuración
 =============
 
 No special configuration is necessary to register invoices. All you need
@@ -17,11 +17,11 @@ to do is install the accounting app.
 .. image:: media/manual01.png
    :align: center
 
-Register bank statements manually
-=================================
+Registrar extractos de cuenta manualmente
+=========================================
 
-Create your Bank Statements
----------------------------
+Crear sus estados de cuenta bancarios
+-------------------------------------
 
 In the Dashboard, click on the button **New Statement** related to the
 bank journal. If some reconciliations need to be done, the New Statement
@@ -43,8 +43,8 @@ should be equal to the computed balance.
 
 When you are done, click on **Save**.
 
-Reconcile your Bank Statements
-------------------------------
+Conciliar los extractos bancarios
+---------------------------------
 
 You can choose to directly reconcile the statement by clicking on the
 button |manual04|
@@ -67,8 +67,8 @@ is missing, Odoo will ask you to **select a partner**.
 
 		Hit CTRL-Enter to reconcile all the balanced items on the sheets.
 
-Close Bank Statements from the reconciliation
----------------------------------------------
+Cerrar extractos de cuenta de la reconciliación
+-----------------------------------------------
 
 If the balance is correct, you can directly close the statement from the
 reconciliation by clicking on |manual07|.
@@ -80,8 +80,8 @@ issue.
 
 .. |manual08| image:: media/manual08.png
 
-Close Bank Statements
----------------------
+Cerrar extractos bancarios
+--------------------------
 
 On the accounting dashboard, click on the More button of your bank
 journal, then click on Bank Statements.

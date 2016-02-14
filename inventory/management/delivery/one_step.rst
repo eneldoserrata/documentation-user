@@ -2,7 +2,7 @@
 How to process delivery orders in one step (shipping)?
 ======================================================
 
-Overview
+Visión general
 ========
 
 When an order goes to the shipping department for final delivery, Odoo
@@ -62,6 +62,6 @@ product has been shipped to the customer.
 
 .. todo::
     Ajouter un lien vers ces pages quand elles existeront
-    -  Process Overview: From sales orders to delivery orders
+    -  Process Visión general: From sales orders to delivery orders
 
-    -  Process Overview: From purchase orders to receptions
+    -  Process Visión general: From purchase orders to receptions

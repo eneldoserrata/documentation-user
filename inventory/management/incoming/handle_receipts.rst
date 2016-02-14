@@ -2,7 +2,7 @@
 How to choose the right flow to handle receipts?
 ================================================
 
-Overview
+Visión general
 ========
 
 Depending on factors such as the type of items you receive, the size of

@@ -1,6 +1,6 @@
-==========================
-Import QIF statement files
-==========================
+========================================
+ficheros de extractos de importación QIF
+========================================
 
 Quicken Interchange Format (QIF) is an open specification for reading
 and writing financial data to media (i.e. files). Although still widely
@@ -15,7 +15,7 @@ all bank statements.
 
 	Test now the feature `with this sample QIF file <https://drive.google.com/file/d/0B5BDHVRYo-q5X1ZkUWYzWmtCX0E/view>`__
 
-Configuration
+Configuración
 =============
 
 In order to import QIF statements, you need to activate the feature in
@@ -43,8 +43,8 @@ create all your bank statements.
 If the file is successfully loaded, you will get redirected to the bank
 reconciliation screen with all the transactions to reconcile.
 
-Importing QIF files
-===================
+La importación de archivos QIF
+==============================
 
 After having imported your first file, the Odoo accounting dashboard
 will automatically propose you to import more files for your bank. For

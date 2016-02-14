@@ -2,7 +2,7 @@
 How to scrap products?
 ======================
 
-Overview
+Visión general
 ========
 
 Scrap means waste that either has no economic value or only the value of

@@ -2,7 +2,7 @@
 How to process delivery orders in three steps (pick + pack + ship)?
 ===================================================================
 
-Overview
+Visión general
 ========
 
 When an order goes to the shipping department for final delivery, Odoo
@@ -158,6 +158,6 @@ been shipped to the customer.
 
 .. todo::
     Link to these sections when available
-    -  Process Overview: From sales orders to delivery orders
+    -  Process Visión general: From sales orders to delivery orders
 
-    -  Process Overview: From purchase orders to receptions
+    -  Process Visión general: From purchase orders to receptions

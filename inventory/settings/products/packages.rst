@@ -2,7 +2,7 @@
 How to use packages?
 ====================
 
-Overview
+Visión general
 ========
 
 The package is the physical container in which you put one or several

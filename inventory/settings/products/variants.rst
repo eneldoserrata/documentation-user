@@ -224,4 +224,4 @@ When you have entered all the extra values, click on **Save**.
   .. seealso::
 
       * Accounting Memento: Details of Journal Entries
-      * Process Overview: From Billing to Payment Orders
+      * Process Visión general: From Billing to Payment Orders

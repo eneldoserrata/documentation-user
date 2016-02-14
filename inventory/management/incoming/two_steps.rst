@@ -2,7 +2,7 @@
 How to unload your shipment to an input location? (2 steps)
 ===========================================================
 
-Overview
+Visión general
 ========
 
 Odoo uses routes to define exactly how you will handle the different

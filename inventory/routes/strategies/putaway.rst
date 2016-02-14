@@ -2,7 +2,7 @@
 What is a putaway strategy?
 ===========================
 
-Overview
+Visión general
 ========
 
 A good warehouse implementation takes care that products automatically

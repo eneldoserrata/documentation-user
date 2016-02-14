@@ -2,7 +2,7 @@
 How to cancel a shipping request to a shipper?
 ==============================================
 
-Overview
+Visión general
 ========
 
 Odoo can handle various delivery methods, including third party

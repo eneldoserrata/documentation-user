@@ -2,7 +2,7 @@
 What is a procurement rule?
 ===========================
 
-Overview
+Visión general
 ========
 
 The procurement inventory control system begins with a customer's order.

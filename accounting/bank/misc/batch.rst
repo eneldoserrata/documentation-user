@@ -1,6 +1,6 @@
-=======================================
-How to manage batch deposits of checks?
-=======================================
+===========================================
+¿Cómo manejar depósitos de lote de cheques?
+===========================================
 
 When your company's collections group receives checks from customers
 they will often place this money into their bank account in batches. As
@@ -17,11 +17,11 @@ the reference to the deposit ticket, not the individual checks.
 Odoo assists you to prepare and print your deposit tickets, and later on
 reconcile them with your bank statement easily.
 
-Configuration
+Configuración
 =============
 
-Install the batch deposit feature
----------------------------------
+Instalar la característica de depósito por lotes
+------------------------------------------------
 
 In order to use the batch deposit feature, you need the module **Batch
 Deposit** to be installed.
@@ -38,8 +38,8 @@ Check the feature: **Allow batch deposit**.
 .. image:: media/batch01.png
    :align: center
 
-Activate the feature on your bank accounts
-------------------------------------------
+Permite activar la función de sus cuentas bancarias
+---------------------------------------------------
 
 Once you have installed this feature, Odoo automatically activate bank
 deposits on your main bank accounts.
@@ -60,11 +60,11 @@ payments created using this Journal (called Payment method when you want
 to make or receive a payment) will be applicable for the creation of
 Batch Deposits afterwards.
 
-From checks received to the bank
-================================
+A partir de los cheques recibidos al banco
+==========================================
 
-Receive customer checks
------------------------
+Recibir cheques de clientes
+---------------------------
 
 Once your record checks received, record them on the bank account on
 which you plan to deposit them. Once you select the bank account (or
@@ -82,8 +82,8 @@ In the memo field, you can set the reference of the check.
     payments can be registered from the menu :menuselection:`Sales --> Payments`,
     or directly on the related invoice, using the **Register Payment** button.
 
-Prepare a batch deposit
------------------------
+Preparar un depósito por lotes
+------------------------------
 
 From the Accounting application, go to the menu :menuselection:`Sales --> Batch Deposit`,
 and create a new **Batch Deposit**.
@@ -102,7 +102,7 @@ lost a check.
 You can then print the batch deposit, which will be very useful
 to prepare the deposit slip that the bank usually requires to complete.
 
-Reconciling the Deposit with the Bank Statement
+Conciliar el depósito con el extracto de cuenta
 -----------------------------------------------
 
 When you process the bank statement reconciliation you will see the
@@ -120,11 +120,11 @@ this batch deposit the example below)
 .. image:: media/batch07.png
    :align: center
 
-Troubleshooting
-===============
+Solución de problemas
+=====================
 
-I don't see the batch deposit link on bank statements?
-------------------------------------------------------
+No veo el enlace de depósito por lotes en los extractos de cuenta?
+------------------------------------------------------------------
 
 If you don't have a batch deposit link in your bank statement, there
 could be two reasons:
@@ -135,8 +135,8 @@ could be two reasons:
 
 - You do not have a batch deposit created for this bank account.
 
-What happens if a check was refused?
-------------------------------------
+¿Qué pasa si se le negó un cheque?
+----------------------------------
 
 If you have a smaller amount in your bank statement than the actual
 amount in your batch deposit, it probably means that one of your check

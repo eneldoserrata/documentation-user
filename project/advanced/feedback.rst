@@ -2,7 +2,7 @@
 How to gather feedback from customers?
 ======================================
 
-Overview
+Visión general
 ========
 
 As a manager, it's not always simple to follow everything your teams do.

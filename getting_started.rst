@@ -1,8 +1,8 @@
 :banner: banners/getting_started.jpg
 
-===============
-Getting Started
-===============
+=========
+Empezando
+=========
 
 .. toctree::
    :titlesonly:

@@ -2,7 +2,7 @@
 How to trigger the purchase of products based on sales?
 =======================================================
 
-Overview
+Visión general
 ========
 
 When you work in just-in-time, you don't manage stock so you directly

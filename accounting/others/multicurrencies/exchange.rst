@@ -2,7 +2,7 @@
 Record exchange rates at payments
 =================================
 
-Overview
+Visión general
 ========
 
 Any company doing international trade faces the case where the payments

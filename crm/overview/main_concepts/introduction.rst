@@ -7,7 +7,7 @@ Introduction to Odoo CRM
     :width: 700
     :height: 394
 
-Transcript
+Descripción
 ==========
 
 Hi, my name is Nicholas, I'm a business manager in the 

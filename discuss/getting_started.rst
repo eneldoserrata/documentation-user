@@ -4,7 +4,7 @@
 Discuss
 =======
 
-Overview
+Visión general
 ========
 
 Odoo Discuss is an easy-to-use messaging app for teams that brings all

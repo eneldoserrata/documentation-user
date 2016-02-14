@@ -2,7 +2,7 @@
 How to apply manual discounts?
 ==============================
 
-Overview
+Visión general
 ========
 
 You can apply manual discounts in two different ways. You can directly

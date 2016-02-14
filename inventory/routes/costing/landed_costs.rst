@@ -2,7 +2,7 @@
 How to integrate landed costs in the cost of the product?
 =========================================================
 
-Overview
+Visión general
 ========
 
 Landed costs include all charges associated to a good transfer.

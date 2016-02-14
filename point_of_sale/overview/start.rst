@@ -2,7 +2,7 @@
 Getting started with Odoo Point of Sale
 =======================================
 
-Overview
+Visión general
 ========
 
 Odoo's online **Point of Sale** application is based on a simple, user

@@ -1,9 +1,9 @@
 ==========================
-Configure model of entries
+Configurar el modelo de las entradas
 ==========================
 
-Overview
-========
+Visión general
+==============
 
 In Odoo you have the possibility to pre-fill some accounting entries in
 order to easily reconcile recurrent entries such as bank fees.
@@ -12,8 +12,8 @@ We will take the following example to illustrate the concept : Every
 month my company receives a bank fee cost, which depends of our bank
 account current balance. This fee is thus variable.
 
-Create Reconciliation Models
-============================
+Crear modelos de conciliación
+=============================
 
 First, we need to configure two model reconciliation entries. To do so,
 go to the accounting application dashboard. On your bank journal, click
@@ -45,8 +45,8 @@ Save your changes when you are done.
 	You can also use this functionality to handle discounts. Please refer to
 	:doc:`../../receivables/customer_invoices/cash_discounts`
 
-Register your payments based on a reconciliation model
-======================================================
+Registre sus pagos basados en un modelo de reconciliación
+=========================================================
 
 Register your payment by importing your bank statements that will be
 impacted by the payment of the bank fee.

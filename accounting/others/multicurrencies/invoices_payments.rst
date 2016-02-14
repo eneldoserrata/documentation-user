@@ -2,7 +2,7 @@
 How to manage invoices & payment in multiple currencies?
 ========================================================
 
-Overview
+Visión general
 ========
 
 Odoo provides multi-currency support with automatic currency gross or

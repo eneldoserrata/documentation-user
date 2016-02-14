@@ -7,7 +7,7 @@ Demonstration Video
     :width: 700
     :height: 394
 
-Transcript
+Descripción
 ==========
 
 Awesome Timesheet is a mobile app that helps me to instantly record 
